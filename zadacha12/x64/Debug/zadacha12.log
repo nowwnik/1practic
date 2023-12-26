@@ -1,0 +1,5 @@
+﻿  zadacha12.cpp
+D:\VS\praktika\zadacha12\zadacha12.cpp(39,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\VS\praktika\zadacha12\zadacha12.cpp(53,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\VS\praktika\zadacha12\zadacha12.cpp(69,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  zadacha12.vcxproj -> D:\VS\praktika\zadacha12\x64\Debug\zadacha12.exe

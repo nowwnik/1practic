@@ -1,0 +1,15 @@
+D:\VS\praktika\Risovatel\bin\Debug\net6.0\Risovatel.exe
+D:\VS\praktika\Risovatel\bin\Debug\net6.0\Risovatel.deps.json
+D:\VS\praktika\Risovatel\bin\Debug\net6.0\Risovatel.runtimeconfig.json
+D:\VS\praktika\Risovatel\bin\Debug\net6.0\Risovatel.dll
+D:\VS\praktika\Risovatel\bin\Debug\net6.0\Risovatel.pdb
+D:\VS\praktika\Risovatel\obj\Debug\net6.0\Risovatel.csproj.AssemblyReference.cache
+D:\VS\praktika\Risovatel\obj\Debug\net6.0\Risovatel.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\praktika\Risovatel\obj\Debug\net6.0\Risovatel.AssemblyInfoInputs.cache
+D:\VS\praktika\Risovatel\obj\Debug\net6.0\Risovatel.AssemblyInfo.cs
+D:\VS\praktika\Risovatel\obj\Debug\net6.0\Risovatel.csproj.CoreCompileInputs.cache
+D:\VS\praktika\Risovatel\obj\Debug\net6.0\Risovatel.dll
+D:\VS\praktika\Risovatel\obj\Debug\net6.0\refint\Risovatel.dll
+D:\VS\praktika\Risovatel\obj\Debug\net6.0\Risovatel.pdb
+D:\VS\praktika\Risovatel\obj\Debug\net6.0\Risovatel.genruntimeconfig.cache
+D:\VS\praktika\Risovatel\obj\Debug\net6.0\ref\Risovatel.dll

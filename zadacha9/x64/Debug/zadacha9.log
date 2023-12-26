@@ -1,0 +1,3 @@
+﻿  zadacha9.cpp
+D:\VS\praktika\zadacha9\zadacha9.cpp(19,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  zadacha9.vcxproj -> D:\VS\praktika\zadacha9\x64\Debug\zadacha9.exe
